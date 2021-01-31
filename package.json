@@ -1,0 +1,23 @@
+{
+  "name": "thebooks",
+  "version": "1.0.0",
+  "description": "Books app that authors can publish their books. Readers can order and read that books. Also readers can do some changes about the main characters name of the books. For example, readers could do their own name as a main character. And then, they could order like that.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oruchan-Asar/TheBooks.git"
+  },
+  "author": "oruchan asar <oruchanasar.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oruchan-Asar/TheBooks/issues"
+  },
+  "homepage": "https://github.com/Oruchan-Asar/TheBooks#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
